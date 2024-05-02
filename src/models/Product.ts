@@ -1,4 +1,6 @@
-interface Product {
+import { Category } from "./Category";
+
+export interface Product {
   key: string,
   name: string,
   description: string,

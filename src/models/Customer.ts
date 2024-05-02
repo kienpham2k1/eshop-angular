@@ -1,4 +1,4 @@
-interface Customer {
+export interface Customer {
   key: string,
   username: string,
   password: string,

@@ -1,4 +1,4 @@
-interface OrderDetail {
+export interface OrderDetail {
   key: string,
   product: Product,
   quantity: number,
